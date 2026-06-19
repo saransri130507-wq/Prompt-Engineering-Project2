@@ -1,0 +1,8 @@
+Test 1:
+Logic puzzle completed.
+
+Test 2:
+Self-correction identified mistakes.
+
+Outcome:
+More structured reasoning and fewer errors.
